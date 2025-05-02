@@ -5,13 +5,13 @@
 He is currently pursuing a Master's Degree in Master of Engineer (MEng), at University of Toronto, Toronto, ON, Canada.
 
 #### Email
-hankun.wang@utoronto.mail.ca
+Schoole Mail: hankun.wang@utoronto.mail.ca\
+Personal Mail: mikewang243@gmail.com
 
 #### Education
-M.E., Master of Engineering (Emphasis on Data Analysis and Machine Learning), University of Toronto, 2024—2025 (expected).\
-B.E., Computer Science, Simon Fraser University, 2021—2024. GPA: 3.34/4.33.\
-B.E., Computer Science, Fraser International Collage, 2019-2021. 3.92/4.33
+Master's Degree, Master of Engineering (Emphasis on Data Analysis and Machine Learning), University of Toronto, 2024—2025 (expected).\
+Bachelor's Degree, Computer Science, Simon Fraser University, 2021—2024. GPA: 3.34/4.33.\
+Bachelor's Degree, Computer Science, Fraser International Collage, 2019-2021. 3.92/4.33
 
-#### Job Preference
-Deep Learning, Artificial Intelligence, Full Stack SDE, 
-
+#### Personal Skill
+Pytorch, Python, C/C++, CUDA, RAG, Transformers, Graph Neural Network(GNN), MySQL, PostgreSQL, Node.js, Typescript, 
