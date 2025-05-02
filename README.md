@@ -1,14 +1,6 @@
 
 
-![Github Forks](https://img.shields.io/github/forks/senli1073/senli1073.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/senli1073/senli1073.github.io?style=flat)
-![License](https://img.shields.io/github/license/senli1073/senli1073.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/senli1073/senli1073.github.io)
-
-# A simple Github Pages template for personal academic websites.
-
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/senli1073/senli1073.github.io/main/screenshot_full.png)](https://senli1073.github.io/)
+![Last Commit](https://img.shields.io/github/last-commit/haokfu/haokfu.github.io)
 
 
 ## Introduction
@@ -23,8 +15,6 @@ This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as
 
 
 ## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
 
 
 ### 2. Edit page content
