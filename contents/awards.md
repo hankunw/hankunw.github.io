@@ -1,2 +1,3 @@
 - Entry Scholarship of SFU, 2021
 - Dean's Honour Role, 2023
+- Dean's Honour Role, 2024
