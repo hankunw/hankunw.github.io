@@ -9,9 +9,8 @@ Schoole Mail: hankun.wang@utoronto.mail.ca\
 Personal Mail: mikewang243@gmail.com
 
 #### Education
-Master's Degree, Master of Engineering (Emphasis on Data Analysis and Machine Learning), University of Toronto, 2024—2025 (expected).\
+Master's Degree, Master of Engineering (Emphasis on Data Analysis and Machine Learning), University of Toronto, 2024—2025 Current GPA: 3.84/4.00.\
 Bachelor's Degree, Computer Science, Simon Fraser University, 2021—2024. GPA: 3.34/4.33.\
-Bachelor's Degree, Computer Science, Fraser International Collage, 2019-2021. 3.92/4.33
 
 #### Personal Skill
-Pytorch, Python, C/C++, CUDA, RAG, Transformers, Graph Neural Network(GNN), MySQL, PostgreSQL, Node.js, Typescript, 
+Pytorch, Python, C/C++, Kotlin, CUDA, RAG, Transformers, Graph Neural Network(GNN), MySQL, PostgreSQL, Node.js, Typescript, 
