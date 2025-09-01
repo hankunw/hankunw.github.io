@@ -16,6 +16,18 @@
 <br />
 
 <details>
+  <summary><strong>Text-guided Image Editing Model |2025.05 – Now</strong></summary>
+  <ul>
+    <li>GitHub: <a href="https://github.com/Not-Forrest/ece1508-text-guided-image-editing" target="_blank">Code</a></li>
+    <li>Project Description: Developed a model pipeline to entangle information of text prompts with image and generate new image that includes both image and text information.</li>
+    <li>Use VQ-VAE as backbone, add a mapper layer before the vector quantized layer, which takes text and image embedding and predict the embedding of target image. </li>
+    <li>On the base of three loss components of VQ-VAE, we add a new loss term which we called mapper loss. It computes the mean square error between target image embedding and original image embedding. We train the model without mapper loss in first 30 epochs and separately train mapper with mapper loss.</li>
+  </ul>
+</details>
+
+<br />
+
+<details>
   <summary><strong>3D Viewer | 2024.01 – 2024.04</strong></summary>
   <ul>
     <li>GitHub: <a href="https://github.com/hankunw/3d-viewer " target="_blank">Code</a></li>
